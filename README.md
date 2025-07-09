@@ -4,7 +4,7 @@
 
 🎓 Final Year BTech CSE Student | 📊 Data Science Enthusiast | 💻 Tech Explorer  
 📍 Based in Punjab, India  
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/) | [Email](muneershaik7450@gmail.com)
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/shaik-muneer450/) | [Email](muneershaik7450@gmail.com)
 
 ---
 
@@ -27,7 +27,7 @@ Over time, I’ve developed a strong foundation in:
 **Languages & Tools:**  
 `Python` | `R` | `SQL` | `JavaScript` | `C++` | `HTML/CSS`  
 `Power BI` | `Tableau` | `Excel` | `VS Code` | `Jupyter` | `Git/GitHub`  
-`React.js` | `Next.js` | `Node.js (basic)` | `MongoDB` | `Firebase`  
+| `MongoDB` | 
 
 ---
 
