@@ -27,7 +27,7 @@ Over time, I’ve developed a strong foundation in:
 **Languages & Tools:**  
 `Python` | `R` | `SQL` | `JavaScript` | `C++` | `HTML/CSS`  
 `Power BI` | `Tableau` | `Excel` | `VS Code` | `Jupyter` | `Git/GitHub`  
-| `MongoDB` | 
+
 
 ---
 
@@ -39,14 +39,8 @@ Over time, I’ve developed a strong foundation in:
 🔹 **Airbnb Price Prediction in R**  
 Exploratory Data Analysis and regression modeling to predict listing prices.
 
-🔹 **SMS Spam Classification using Naive Bayes (R)**  
-Cleaned and trained model to identify spam SMS messages with high accuracy.
-
-🔹 **South Africa Tour Package Presentation (PPT)**  
-Designed a professional itinerary and business model for a tour package, including marketing and pricing.
-
 🔹 **Frontend & Backend Mini Projects**  
-React-based frontend designs and C++/Java-based logic games and software concepts.
+frontend designs and C++/Java-based logic games and software concepts.
 
 ---
 
@@ -58,8 +52,8 @@ React-based frontend designs and C++/Java-based logic games and software concept
 
 ## 🧠 What I'm Learning Now
 
-- Advanced ML Techniques & Real-world deployment (Flask/Streamlit)
-- Building full-stack apps with Next.js
+- ML Techniques & Real-world deployment
+- Building full-stack apps 
 
 ---
 
